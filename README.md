@@ -1,2 +1,2 @@
 # servicenow-fundamentals
-This is a repo for showcasing my familiarity of ServiceNow Ticketing System.
+This is a repository to showcase my familiarity of ServiceNow Ticketing System.
