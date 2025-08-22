@@ -11,7 +11,9 @@ To gain hands-on experience, I utilized a **Personal Developer Instance (PDI)**.
 * Navigate to the [ServiceNow Developer Program](https://developer.servicenow.com/).
 * Create an account by clicking **Sign-up and Start Building**.
 * Once registered, log in to provision your personal instance.
-
+<div align="center">
+  <img src="assets/creating-pdi.png" alt="A photo to show what it looks like to create a PDI" width="700">
+</div>
 ---
 
 ## Mastering Platform Navigation
