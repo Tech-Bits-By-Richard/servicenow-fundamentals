@@ -19,15 +19,17 @@ To gain hands-on experience, I utilized a **Personal Developer Instance (PDI)**.
 Efficient navigation is crucial for effective work within ServiceNow. I've streamlined my workflow using key platform features.
 
 ### Bookmarking Favorites ⭐
-I created bookmarks for frequently used lists, such as "Active Interactions" and "Unassigned Incidents," to ensure quick and easy access.
+I created bookmarks for frequently used lists, such as "Interactions" and "Incidents," to ensure quick and easy access.
 
 **How to Bookmark:**
 1.  Use the navigation filter to find a specific list (e.g., "Interactions").
-2.  Open the desired list (e.g., **Interactions > Open**).
+2.  Search the desired list by typing into the filter box (e.g., **Interactions**).
 3.  Click the star icon next to the list's name in the navigation pane.
 
 Your bookmarked shortcuts will then appear under the **Favorites** tab.
-
+<div align="center">
+  <img src="assets/favorites.gif" alt="A gif of how to create Favorites list" width="700">
+</div>
 ---
 
 ## Working with Interactions 🤝
