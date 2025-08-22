@@ -39,9 +39,13 @@ Your bookmarked shortcuts will then appear under the **Favorites** tab.
 An **Interaction** is a record of initial contact with a user, often an inquiry that may not involve a technical issue. It serves as a critical first step in logging communication.
 
 ### Creating an Interaction
-* From your **Favorites** tab, click the shortcut to create a new Interaction.
+* From your **Favorites** tab, click the **Interactions** disclosure widget and click **All**
+* To create a new Interaction, locate the **New** button on the top left corner of your screen.
 * Fill in required details like **Contact type**, **Opened for**, and a **Short Description**.
 * Click **Submit** to create the record.
+<div align="center">
+  <img src="assets/creating-interactions.gif" alt="A gif of how to create interactions" width="700">
+</div>
 
 ### Key Workflows
 * **Managing Interactions**: I managed open interactions by quickly accessing the bookmarked list from my **Favorites** tab.
